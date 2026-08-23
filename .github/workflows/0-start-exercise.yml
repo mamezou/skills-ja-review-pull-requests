@@ -21,7 +21,7 @@ jobs:
     uses: skills/exercise-toolkit/.github/workflows/start-exercise.yml@v0.9.1
     with:
       exercise-title: "Review Pull Requests"
-      intro-message: "Let's learn to collaborate with others using pull requests."
+      intro-message: "pull request を使って、他の人と共同作業する方法を学びます。"
 
   modify_repo_content:
     name: Modify repo content

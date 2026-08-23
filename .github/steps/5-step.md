@@ -1,15 +1,15 @@
-## Step 5: Merge your pull request
+## Step 5: pull request をマージする
 
-_Almost done!_ :heart:
+_あと少しです！_ :heart:
 
-With our reviews collected and feedback implemented, it's time to merge the changes.
+レビューが集まり、フィードバックも反映できたので、変更をマージします。
 
-### ⌨️ Activity: Merge your pull request
+### ⌨️ やること: pull request をマージする
 
-1. In the pull request navigation, select the **Conversation** tab.
+1. pull request のメニューで **Conversation** タブを選びます。
 
-1. Scroll down and click the **Merge pull request** button.
+1. 下へスクロールし、**Merge pull request** ボタンをクリックします。
 
-1. (Optional) Delete the `update-game` branch.
+1. （任意）`update-game` ブランチを削除します。
 
-1. With the pull request merged, Mona will check your progress and prepare a final review. Congrats, you are done! 🎉
+1. pull request をマージしたので、Mona が作業を確認しています。少し待って、コメントを見てください。最後のまとめが投稿されます。お疲れさまでした！ 🎉

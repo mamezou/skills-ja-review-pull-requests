@@ -1,33 +1,33 @@
-## Step 1: Open a pull request
+## Step 1: pull request を開く
 
-Let's get started by opening a **pull request** on some changes that were recently added to the `update-game` branch.
+まずは、`update-game` ブランチに最近追加された変更について **pull request** を開くところから始めます。
 
-### 📖 Theory: What is a pull request?
+### 📖 理論: pull request とは
 
-A **pull request** is a collaboration area where work in one branch is reviewed before merging it into another branch. It has different tabs to manage the conversation and easily review changes.
+**pull request** は、あるブランチの作業を別のブランチへマージする前にレビューするための共同作業の場です。会話の管理と変更の確認をしやすくするため、いくつかのタブに分かれています。
 
-- **Conversation** - A general log of the pull request activity. It also provides an open space for fellow collaborators and the community to provide ideas, suggestions, and general feedback.
-- **Commits** - A list of only the commits unique to the proposed branch.
-- **Checks** - The results of any automations applied to the pull request using [GitHub Actions](https://github.com/features/actions). That's for another exercise, though. 😎
-- **Files Changed** - A [Diff](https://docs.github.com/en/get-started/learning-about-github/github-glossary#diff) view that easily shows the proposed changes in a before/after view. It also has options to add comments and reviews in context.
+- **Conversation** - pull request の活動記録です。共同作業者やコミュニティが、アイデア・提案・全般的なフィードバックを書き込む場でもあります。
+- **Commits** - 提案元のブランチにだけ存在するコミットの一覧です。
+- **Checks** - [GitHub Actions](https://github.com/features/actions) による自動処理を pull request に適用したときの結果です。Checks は別の演習で扱います。😎
+- **Files Changed** - 変更前後を見比べられる [Diff](https://docs.github.com/en/get-started/learning-about-github/github-glossary#diff) の表示です。Diff の画面からコメントやレビューを追加することもできます。
 
 > [!TIP]
-> You can [create a draft pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) for unfinished work. This can help avoid accidental merges or premature reviews.
+> 作業が途中のものは、[下書きの pull request（draft pull request）](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)として作成できます。誤ってマージされたり、早すぎるタイミングでレビューされたりするのを防げます。
 
-### ⌨️ Activity: Create a pull request
+### ⌨️ やること: pull request を作る
 
-1. Open this repository in a new browser tab so you can work on the steps while you read the instructions in this tab.
+1. ブラウザーで新しいタブを開き、演習用のリポジトリを開きます。説明は元のタブで読み、操作は新しいタブで行います。
 
-1. In the top navigation, select the **Pull requests** tab.
+1. 上部のメニューで **Pull requests** タブを選びます。
 
-1. On the right, click the **New pull request** button.
+1. 右側の **New pull request** ボタンをクリックします。
 
-1. Under the **Compare changes** area, select the following options and click the **Create pull request** button.
+1. **Compare changes** の欄で次のとおり選び、**Create pull request** ボタンをクリックします。
 
    - **base:** `main`
    - **compare:** `update-game`
 
-1. Set the **title** and **description** to the following.
+1. **title**（タイトル）と **description**（説明）に次の内容を入力します。
 
    ```md
    Update game over message
@@ -37,6 +37,6 @@ A **pull request** is a collaboration area where work in one branch is reviewed 
    Update the game over message so people know how to play again!
    ```
 
-1. Click **Create pull request**.
+1. **Create pull request** をクリックします。
 
-1. With the pull request created, Mona will check your progress and share the next steps.
+1. pull request ができたので、Mona が作業を確認しています。少し待って、コメントを見てください。進捗と次の Step が投稿されます。

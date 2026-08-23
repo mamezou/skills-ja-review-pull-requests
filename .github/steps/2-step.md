@@ -1,16 +1,16 @@
-## Step 2: Assign yourself
+## Step 2: 自分を担当者にする
 
-_Great job opening that pull request! :wave:_
+_pull request を開けました！ :wave:_
 
-### 📖 Theory: Pull request assignees
+### 📖 理論: pull request の担当者（assignee）
 
-A **pull request assignee** is the person (or persons) most familiar with the proposed changes.
-It's a simple mechanism for keeping track of who to contact for questions.
+**pull request の担当者（assignee）** は、提案された変更をいちばんよく知っている人（複数可）のことです。
+質問があるときに誰へ連絡すればよいかを把握しておくための、簡単なしくみです。
 
-### ⌨️ Activity: Assign yourself
+### ⌨️ やること: 自分を担当者にする
 
-1. Navigate back to the created pull request if you are not on it.
+1. さきほど作った pull request を開いていない場合は、戻ります。
 
-1. On the right side, under **Assignees**, click the **assign yourself** text.
+1. 右側の **Assignees** の下にある **assign yourself** という文字をクリックします。
 
-1. After assigning yourself, Mona will check your progress and share the next steps.
+1. 自分を担当者にしたので、Mona が作業を確認しています。少し待って、コメントを見てください。進捗と次の Step が投稿されます。

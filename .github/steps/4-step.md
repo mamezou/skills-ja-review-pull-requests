@@ -1,29 +1,29 @@
-## Step 4: Suggest changes
+## Step 4: 変更を提案する
 
-_Nice work reviewing that pull request :sparkles:_
+_レビューできました :sparkles:_
 
 
-While reviewing, it is very common to find simple changes that are easier to implement than to describe. For example, typos or rewording sentences. These are perfect situations for the **Add a suggestion** feature.
+レビューをしていると、説明するより直したほうが早い、ちょっとした変更が見つかることがよくあります。誤字や言い回しの修正などです。こうした場面では **Add a suggestion** の機能がぴったりです。
 
-### 📖 Theory: Suggested changes
+### 📖 理論: suggested changes（変更の提案）
 
-The **Add a suggestion** feature is a button in the comment text editor. It inserts a specially formatted code block. Instead of only showing a comment, GitHub will also provide a **Commit suggestion** button. This allows the author to accept the suggestion and commit it with the push of a button. No need to open a code editor! Nice!
+**Add a suggestion** は、コメント入力欄にあるボタンです。押すと、専用の書式のコードブロックが挿入されます。GitHub は、コメントを表示するだけでなく **Commit suggestion** ボタンも表示します。作成者はボタンひとつで提案を受け入れてコミットできます。コードエディターを開く必要はありません。便利ですね！
 
-### ⌨️ Activity: Suggest changes
+### ⌨️ やること: 変更を提案する
 
-1. On the pull request, click **Files changed**.
+1. pull request で **Files changed** をクリックします。
 
-1. Find the comparison view for the `index.html` file.
+1. `index.html` ファイルの差分表示を探します。
 
-1. Hover your cursor next to the line numbers for the modified line.
+1. 変更された行の行番号の横にカーソルを合わせます。
 
-1. Click the plus icon to show an inline comment form.
+1. プラスのアイコンをクリックすると、クリックした行へのコメント入力欄が開きます。
 
-1. Click the **Add a suggestion** button to insert a modifiable copy of the line.
+1. **Add a suggestion** ボタンをクリックすると、元の行が編集できる形で挿入されます。
 
-   <img width="300" alt="add-a-suggestion-button" src="../images/add-a-suggestion-button.png" />
+   <img width="300" alt="Add a suggestion ボタン" src="../images/add-a-suggestion-button.png" />
 
-1. Edit the suggestion to match below and click the **Comment** button.
+1. 提案の内容を次のとおりに書き換え、**Comment** ボタンをクリックします。
 
    ````md
    ```suggestion
@@ -32,16 +32,16 @@ The **Add a suggestion** feature is a button in the comment text editor. It inse
    Let's make it a bit more friendly. 🤓
    ````
 
-### ⌨️ Activity: Apply a suggested change
+### ⌨️ やること: 提案された変更を適用する
 
-1. In the pull request navigation, select the **Conversation** tab.
+1. pull request のメニューで **Conversation** タブを選びます。
 
-1. Scroll down and click the **Commit suggestion** button to open a commit message form.
+1. 下へスクロールし、**Commit suggestion** ボタンをクリックすると、コミットメッセージの入力欄が開きます。
 
-1. Edit the commit message to the below text and click the **Commit changes** button.
+1. コミットメッセージを次の内容に書き換え、**Commit changes** ボタンをクリックします。
 
    ```markdown
    Make the end game experience more friendly
    ```
 
-1. With the changes committed, Mona will check your progress and share the next steps.
+1. 変更をコミットしたので、Mona が作業を確認しています。少し待って、コメントを見てください。進捗と次の Step が投稿されます。
