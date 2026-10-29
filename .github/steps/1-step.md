@@ -12,7 +12,7 @@
 - **Files Changed** - 変更前後を見比べられる [Diff](https://docs.github.com/en/get-started/learning-about-github/github-glossary#diff) の表示です。Diff の画面からコメントやレビューを追加することもできます。
 
 > [!TIP]
-> 作業が途中のものは、[下書きの pull request（draft pull request）](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)として作成できます。誤ってマージされたり、早すぎるタイミングでレビューされたりするのを防げます。
+> 作業が途中のものは、[下書きの pull request（draft pull request）](https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)として作成できます。誤ってマージされたり、早すぎるタイミングでレビューされたりするのを防げます。
 
 ### ⌨️ やること: pull request を作る
 

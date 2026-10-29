@@ -41,7 +41,7 @@ _他の人と協力して作業を磨き、マージする前に提案をもら�
 演習をコピーするときは、次の設定を推奨します。
 
 - Owner は自分の個人アカウント（または演習を置く Organization）を選ぶ。
-- private リポジトリは [Actions の実行時間を消費する](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions)ため、public リポジトリを推奨します。
+- private リポジトリは [Actions の実行時間を消費する](https://docs.github.com/ja/billing/managing-billing-for-github-actions/about-billing-for-github-actions)ため、public リポジトリを推奨します。
 
 20 秒待っても演習が始まらないときは、次を確認してください。
 

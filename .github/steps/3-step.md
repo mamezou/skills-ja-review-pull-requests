@@ -9,7 +9,7 @@ _自分を担当者にできました！ :tada:_
 レビューをもらういちばんの方法は、依頼することです。レビュアーを指定すると、レビュアーは次の 3 つの方法でフィードバックできます。
 
 - **Comment** - 承認も却下もしない、一般的なフィードバックです。
-- **Approve** - [ルールセット](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/about-rulesets)、[コードオーナー](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)、ほかのポリシーが適用されている場合に、マージを可能にします。
+- **Approve** - [ルールセット](https://docs.github.com/ja/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/about-rulesets)、[コードオーナー](https://docs.github.com/ja/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)、ほかのポリシーが適用されている場合に、マージを可能にします。
 - **Request Changes** - 提案された変更が期待に達しておらず、追加の作業が必要という意味です。修正後に、あらためてレビューを依頼します。
 
 **Files changed** タブが、フィードバックを集める主な場所です。レビューを提出する前に、行に直接コメントを付けられます。
@@ -22,7 +22,7 @@ _自分を担当者にできました！ :tada:_
 
 1. たいていの変更では、提案された変更を実際に動かしてみて、意図どおりかを検証します。
 
-1. レビューの要件、テスト、品質確認などについては、リポジトリの[コントリビューションガイド](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)を参照します。
+1. レビューの要件、テスト、品質確認などについては、リポジトリの[コントリビューションガイド](https://docs.github.com/ja/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)を参照します。
 
 #### レビューの観点
 
