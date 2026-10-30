@@ -18,6 +18,6 @@ _おめでとうございます。演習を終え、pull request のレビュー
 ### 次にできること
 
 - [ほかの GitHub Skills 演習に取り組む](https://learn.github.com/skills)。
-- プロジェクトに [`CODEOWNERS`](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) ファイルを追加し、pull request のレビュー担当者を自動で割り当てる。
-- [GitHub の入門ドキュメントを読む](https://docs.github.com/en/get-started)。
+- プロジェクトに [`CODEOWNERS`](https://docs.github.com/ja/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) ファイルを追加し、pull request のレビュー担当者を自動で割り当てる。
+- [GitHub の入門ドキュメントを読む](https://docs.github.com/ja/get-started)。
 - 貢献先のプロジェクトを探すなら、[GitHub Explore](https://github.com/explore) を見る。
